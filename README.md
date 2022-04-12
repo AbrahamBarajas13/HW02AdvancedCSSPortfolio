@@ -1,1 +1,2 @@
 # HW02AdvancedCSSPortfolio
+The project was to apply css and html knowledge that we have learned over the past 2 weeks. I also have applied the hover effect on the two images. I also made links to both the images and the github. I took too long trying to fix the look of the website and fell behind the homework. I have decided to accept it how it is and continue with other work. It was an interesting assignment and I need to learn when an assignment is complete.
